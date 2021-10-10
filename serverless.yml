@@ -1,0 +1,8 @@
+dashboardNextApp:
+  component: "@sls-next/serverless-component@3.4.0"
+  inputs:
+    bucketName: pilot-dashboard-bucket
+    name:
+      defaultLambda: dashboardLambda
+      apiLambda: dashboardApiLambda
+      imageLambda: dashboardImageLambda
