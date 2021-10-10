@@ -1,4 +1,4 @@
-A simple dashboard site built using [Next.js](https://nextjs.org/), [Material-UI](https://mui.com/) [next-iron-session](https://github.com/vvo/next-iron-session).
+A simple dashboard site built using [Next.js](https://nextjs.org/), [Material-UI](https://mui.com/), [next-iron-session](https://github.com/vvo/next-iron-session).
 Credentials to the site are admin/admin or use same username and password.
 
 ## Getting Started
@@ -35,3 +35,7 @@ npx serverless
 #Undeploy
 npx serverless remove
 ```
+
+## Demo
+
+Demo site at [https://dv55ycvt7bik3.cloudfront.net/](https://dv55ycvt7bik3.cloudfront.net/)
